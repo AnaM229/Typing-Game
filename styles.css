@@ -1,0 +1,21 @@
+.word{
+    padding: 2em;
+    margin: 3em;
+    background-color: blueviolet;
+    color: blueviolet;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+.right{
+    padding: 2em;
+    margin: 3em;
+    background-color: blueviolet;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: white;
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
